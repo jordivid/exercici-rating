@@ -1,0 +1,17 @@
+body {
+    height: 98vh;
+    background-color: #7fffc0;
+}
+
+#contenidor {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heart {
+    width: 50px;
+    height: auto;
+    margin: 10px;
+}

@@ -1,0 +1,15 @@
+body {
+    height: 98vh;
+    background-color: #7fffc0;
+}
+
+#contenidor {
+    display: flex;
+    justify-content: center;
+}
+
+.heart {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+}
